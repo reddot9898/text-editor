@@ -15,6 +15,8 @@ The application is a web text editor where the user can create notes or code sni
 
 ## Installation
 
+- ! BEFORE INSTALL DELETE EXCISING DIST FOLDER INSIDE CLIENT DIRECTORY !
+
 - Just simply open your package.json and run npm i
 - After your packages install run npm run start
 - Your application will now be on local:host3000
